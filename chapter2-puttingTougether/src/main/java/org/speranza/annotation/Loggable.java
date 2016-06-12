@@ -9,5 +9,4 @@ import javax.inject.Qualifier;
 @Qualifier
 @Retention(RUNTIME)
 public @interface Loggable {
-
 }
